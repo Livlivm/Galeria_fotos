@@ -23,20 +23,6 @@ O projeto consiste em um aplicativo de cardápio digital, desenvolvido para faci
 * Android
 * share_plus
 
-## Prints do aplicativo
-
-Abaixo estão alguns registros das telas desenvolvidas no aplicativo.
-
-### Tela de abertura
-
-<!-- Coloque aqui o print da Splash Screen -->
-
-![Splash Screen](prints/splash.png)
-
-### Tela principal
-
-![Uploading Captura de tela 2026-09-09 123851.png…]()
-
 
 ### Cardápio
 
