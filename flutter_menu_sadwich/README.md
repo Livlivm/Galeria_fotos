@@ -98,8 +98,6 @@ flutter run
 
 O arquivo APK será disponibilizado como parte da entrega do projeto.
 
-**Download do APK:**
-`COLOQUE_AQUI_O_LINK_DO_APK`
 
 ## Repositório
 
