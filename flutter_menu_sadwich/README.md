@@ -1,4 +1,4 @@
-#  Galeria de Fotos 📸
+#  Galeria de Fotos 
 
 Aplicativo desenvolvido em Flutter como atividade prática da Aula 03 de Programação para Dispositivos Móveis 2 (PPDM2), do curso de Desenvolvimento de Sistemas.
 
