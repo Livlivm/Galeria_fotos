@@ -99,13 +99,6 @@ flutter run
 O arquivo APK será disponibilizado como parte da entrega do projeto.
 
 
-## Repositório
-
-O código-fonte completo do aplicativo está disponível no GitHub.
-
-**GitHub:**
-`COLOQUE_AQUI_O_LINK_DO_GITHUB`
-
 ## Objetivo da atividade
 
 A atividade teve como objetivo desenvolver uma aplicação mobile utilizando Flutter, aplicando conhecimentos relacionados à criação de interfaces e ao acesso aos recursos de hardware de um dispositivo.
