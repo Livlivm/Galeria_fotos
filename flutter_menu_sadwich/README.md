@@ -68,9 +68,9 @@ As imagens registradas pelo aplicativo podem ser visualizadas em uma galeria, ac
 lib/
 ├── main.dart
 ├── models/
-│   └── foto.dart
+│   └── foto_model.dart
 ├── services/
-│   └── foto_service.dart
+│   └── storage_service.dart
 ├── screens/
 │   ├── splash.dart
 │   ├── home.dart
