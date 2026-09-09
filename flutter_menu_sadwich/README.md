@@ -35,10 +35,8 @@ Abaixo estão alguns registros das telas desenvolvidas no aplicativo.
 
 ### Tela principal
 
+![Uploading Captura de tela 2026-09-09 123851.png…]()
 
-
-
-![Tela principal](prints/home.png)
 
 ### Cardápio
 
